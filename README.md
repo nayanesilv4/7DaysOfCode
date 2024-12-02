@@ -20,4 +20,4 @@ Este repositório contém a resolução dos sete desafios de lógica de programa
 
 ## Autor 
 
-**Informações:** Nayane Costa, nayacosta80@gmail.com, https://github.com/nayanecostta 
+**Informações:** Nayane da Silva Costa, nayanecosilva@gmail.com, https://github.com/nayanesilv4
